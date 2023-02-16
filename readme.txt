@@ -1,5 +1,5 @@
 Welcome to MyProject!
 
-Author: Kelly
+Author: Kelly Nerove
 
 Twitter: @kellynerove
